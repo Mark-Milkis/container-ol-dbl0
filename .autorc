@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Mark-Milkis",
+  "repo": "container-ol-dbl0",
+  "name": "Mark-Milkis",
+  "email": "mark.milkis@arup.com",
+}
